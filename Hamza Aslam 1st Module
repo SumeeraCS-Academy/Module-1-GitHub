@@ -1,0 +1,5 @@
+sentance1 = "My name is Hamza Aslam. "
+sentance2 = "I am student of Mam Sumera. "
+sentance3 = "I know basics of python which is now trendin computer language"
+
+print(sentance1 + sentance2 + sentance3)
